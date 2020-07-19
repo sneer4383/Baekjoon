@@ -1,0 +1,6 @@
+﻿  10951_UseEOF.C
+C:\Users\sneer\source\repos\Baekjoon\10951_UseEOF\10951_UseEOF\10951_UseEOF.C(6,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\sneer\source\repos\Baekjoon\10951_UseEOF\10951_UseEOF\10951_UseEOF.C(8,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+  10951_UseEOF.vcxproj -> C:\Users\sneer\source\repos\Baekjoon\10951_UseEOF\Debug\10951_UseEOF.exe
